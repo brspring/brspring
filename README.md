@@ -1,9 +1,4 @@
-### Hi there 😀
-
-- 📚 I'm studying computer science at UFPR.
-- 🔍 I'm looking to collaborate on anything that makes me learn new things.
-- 🤔 I'm looking for help with everything as i still starting in this area.
-- 📫 How to reach me: brunoazizsm@gmail.com.
+- 📫 brunoazizsm@gmail.com.
 
 <div align="center">
   <a href="https://github.com/brspring">
