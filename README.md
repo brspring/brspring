@@ -1,5 +1,4 @@
 - 📫 brunoazizsm@gmail.com.
-- Membro do PET Computação
 
 <div align="center">
   <a href="https://github.com/brspring">
